@@ -21,7 +21,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## 家用料理機器人
-
+https://github.com/cliffordchen0728/MCU-course-project/blob/main/images/WyamaGJh.jpg
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
 2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
