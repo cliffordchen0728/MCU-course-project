@@ -21,7 +21,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## 傳話機器人
-![]([https://image-cdn.learnin.tw/bnextmedia/image/album/2020-07/img-1594807539-96314.jpg?w=1200])
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2020-07/img-1594807539-96314.jpg?w=1200)
 ### 應用功能說明
 1. 傳話：順利傳達給在隔壁的家人
 
