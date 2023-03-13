@@ -20,23 +20,21 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 家用料理機器人
-![](https://github.com/cliffordchen0728/MCU-course-project/blob/main/images/WyamaGJh.jpg)
+## 傳話機器人
+![]([https://image-cdn.learnin.tw/bnextmedia/image/album/2020-07/img-1594807539-96314.jpg?w=1200])
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 傳話：順利傳達給在隔壁的家人
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
+1. 操作方式:喇叭
 2. 移動方式:兩輪 or 滑軌懸吊
 3. 供電方式:鋰電池
 4. 聯網方式:WiFi或BT to 手機
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 聲音辨識
+2. 臉部辨識
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
