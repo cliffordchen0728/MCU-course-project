@@ -37,7 +37,7 @@ This homework is to propose an innovative project and describe the key features,
 2. 臉部辨識
 
 ### 系統方塊圖
-![](![image](https://user-images.githubusercontent.com/126163516/226251849-05afb421-bd3d-4163-b46d-92aa35b58009.png)
+(![image](https://user-images.githubusercontent.com/126163516/226251849-05afb421-bd3d-4163-b46d-92aa35b58009.png)
 
 
 ---
