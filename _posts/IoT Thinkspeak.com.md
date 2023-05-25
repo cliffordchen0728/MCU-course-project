@@ -111,4 +111,4 @@ void loop() {
   delay(1*10*1000);
 }
 圖
-(https://raw.githubusercontent.com/cliffordchen0728/MCU-course-project/main/images/348356679_811035980618601_6176376590555770274_n.jpg)
+![](https://raw.githubusercontent.com/cliffordchen0728/MCU-course-project/main/images/348356679_811035980618601_6176376590555770274_n.jpg?w=1200)
