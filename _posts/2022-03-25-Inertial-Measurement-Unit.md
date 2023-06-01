@@ -57,4 +57,4 @@ float Kalman::getAngle(float newAngle, float newRate, float dt) {
     return angle;
 };  
 
-![](https://github.com/cliffordchen0728/MCU-course-project/blob/main/images/imu.jpg?raw=true)
+![](https://raw.githubusercontent.com/cliffordchen0728/MCU-course-project/main/images/%E6%85%A3%E6%80%A7%E5%85%83%E4%BB%B6%E5%96%9C%E7%B5%B1%E6%96%B9%E5%A1%8A%E5%9C%96_page-0001.jpg?raw=true)
