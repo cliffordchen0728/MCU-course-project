@@ -112,4 +112,5 @@ void loop() {
 }
 圖
 ![](https://raw.githubusercontent.com/cliffordchen0728/MCU-course-project/main/images/348356679_811035980618601_6176376590555770274_n.jpg?w=1200)
-![](https://github.com/cliffordchen0728/MCU-course-project/blob/main/images/thinkspeak_page-0001.jpg?raw=true?w=1200)
+
+![](https://github.com/cliffordchen0728/MCU-course-project/blob/main/images/thinkspeak_page-0001.jpg?raw=true)
